@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": 153753421,
+    "url": "irinakorol951",
+    "bio": null,
+    "avatar": "https:\/\/imgur.com\/user\/irinakorol951\/avatar?maxwidth=290",
+    "avatar_name": "default\/Z",
+    "cover": "https:\/\/imgur.com\/user\/irinakorol951\/cover?maxwidth=2560",
+    "cover_name": "default\/1-space",
+    "reputation": -3,
+    "reputation_name": "Neutral",
+    "created": 1629788223,
+    "pro_expiration": false,
+    "user_follow": {
+      "status": false
+    },
+    "is_blocked": false
+  },
+  "success": true,
+  "status": 200
+}
